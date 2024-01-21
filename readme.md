@@ -2,5 +2,5 @@ Aula de Git
 
 Feito algumas alteracoes
 
-teste
+feito alteracoes apos  o git clone
 
